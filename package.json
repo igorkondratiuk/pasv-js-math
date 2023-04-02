@@ -1,0 +1,23 @@
+{
+  "name": "psav_jsm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "faker": "^5.5.3",
+    "git": "^0.1.5",
+    "nano-id": "^1.0.0",
+    "nanoid": "^4.0.0",
+    "xorshift": "^1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
